@@ -1,3 +1,4 @@
+role,NetID,LastName,FirstName
 boss,sjpeters3,Peters,Samuel
 employee,tkatta,Katta,Taran
 
