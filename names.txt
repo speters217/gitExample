@@ -1,7 +1,3 @@
 boss,sjpeters3,Peters,Samuel
-employee,tkatta,Katta,Taran >>names.txt
-git add names.txt
-git commit -m This is Taran adding a new line.
-git pull origin main
-git push origin main
+employee,tkatta,Katta,Taran
 
